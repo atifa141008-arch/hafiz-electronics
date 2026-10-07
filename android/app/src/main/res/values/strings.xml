@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Hafiz Electronics</string>
+    <string name="title_activity_main">Hafiz Electronics</string>
+    <string name="package_name">com.hafizelectronics.app</string>
+    <string name="custom_url_scheme">com.hafizelectronics.app</string>
+</resources>
